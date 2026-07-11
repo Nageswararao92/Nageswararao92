@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @Nageswararao92
-- 👀 I’m interested in learning Web Development and Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">DevOps and Cloud Developer</h1>
 
-<!---
-Nageswararao92/Nageswararao92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">Software Engineer • DevOps & Cloud Developer</h3>
+
+<p align="center">
+Designing scalable systems, reliable deployments, and high-performance applications.
+</p>
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,express,html,css,mongodb,postgres,mysql,redis,firebase,git,github,docker,aws,vscode&perline=10" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech Graduate from VIT-AP University (CGPA: 8.6)
+- ☁ AWS Certified Cloud Practitioner
+- 💻 Full Stack Developer
+- 🌐 Interested in Cloud, DevOps, and Backend Development
+
+---
+
+## 📫 Contact
+
+- Email: yourmail@gmail.com
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Portfolio: https://yourportfolio.com
