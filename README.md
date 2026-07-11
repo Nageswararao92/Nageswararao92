@@ -1,6 +1,6 @@
-<h1 align="center">DevOps and Cloud Developer</h1>
+<h1 align="center">FullStack and Cloud Developer</h1>
 
-<h3 align="center">Software Engineer • DevOps & Cloud Developer</h3>
+<h3 align="center">Software Engineer  & Cloud Developer</h3>
 
 <p align="center">
 Designing scalable systems, reliable deployments, and high-performance applications.
@@ -11,7 +11,7 @@ Designing scalable systems, reliable deployments, and high-performance applicati
 ## 🛠 Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,express,html,css,mongodb,postgres,mysql,redis,firebase,git,github,docker,aws,vscode&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,express,html,css,mongodb,postgres,mysql,git,github,docker,aws,vscode&perline=10" />
 </p>
 
 ---
@@ -21,12 +21,10 @@ Designing scalable systems, reliable deployments, and high-performance applicati
 - 🎓 B.Tech Graduate from VIT-AP University (CGPA: 8.6)
 - ☁ AWS Certified Cloud Practitioner
 - 💻 Full Stack Developer
-- 🌐 Interested in Cloud, DevOps, and Backend Development
+- 🌐 Interested in Cloud, and Backend Development
 
 ---
 
 ## 📫 Contact
 
-- Email: yourmail@gmail.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Portfolio: https://yourportfolio.com
+- Email: nagababuajc@gmail.com
